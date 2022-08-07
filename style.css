@@ -2,3 +2,12 @@ body{
     background-color: rgb(139, 44, 165);
     color: white;
 }
+
+.navbar{
+    background: linear-gradient(90deg, #98CC3E, #9765B6, #198754);
+}
+
+.infoprincipal{
+    background-color: #b5da76;
+    color: black;
+}
